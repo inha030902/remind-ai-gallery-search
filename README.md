@@ -1,5 +1,7 @@
 # 🔍 Re:Mind — AI Gallery Search
 
+![Re:Mind 메인 화면](main-screen.png)
+
 > **Personal Project · Work in Progress**
 
 정확한 키워드가 기억나지 않아도 자연어와 대화를 통해 원하는 사진과 스크린샷을 찾을 수 있도록 개발 중인 **AI 기반 스마트 갤러리 검색 MVP**입니다.
